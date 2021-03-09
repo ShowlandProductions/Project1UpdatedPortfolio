@@ -10,3 +10,5 @@ Added Awesome Font, Bootstrap, Font Awesome, & Popper
 - Updated [Portfolio with Resume] with PDF download link.
 - Updated [Github Profile](https://github.com/showlandproductions).
 
+Updated with current homework assignments and Project 2 deployed and hithub repos
+
